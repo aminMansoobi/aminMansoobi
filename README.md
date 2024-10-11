@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amin</h1>
-<h3 align="center">A Developer From Iran</h3>
+<h3 align="center">Just Another Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aminMansoobi](https://github.com/aminMansoobi)
 
